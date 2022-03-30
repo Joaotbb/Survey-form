@@ -1,0 +1,84 @@
+@import
+url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+
+
+
+.igers {
+    color: salmon;
+    padding-bottom: 70px;
+}
+
+.qqmerda {
+    position: fixed;   top: 50%;   left: 50%;   transform: translate(-50%, -50%); }
+}
+
+.qqmerda2 {
+    width: 700px;
+    margin: auto;
+    border: solid 2px red;
+    vertical-align: center;
+    height: auto;
+
+}
+
+body {
+    text-align: center;
+    background-image: url(https://www.gvme.org/dl/8774);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(238,174,202,0.3);
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    font-weight: 400;
+    line-height: 1.2;
+}
+
+p {
+    font-size: 1.125rem;
+}
+
+h1,
+p {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.bg-gradient {
+    background-color: white;
+    opacity: 0.5;
+    min-height: 100vh;
+}
+
+.container {
+
+}
+
+
+.form-group {
+    margin: 0 auto 1.25rem auto;
+    padding: 0.25rem;
+}
+
+.input-radio,
+.input-checkbox {
+    display: inline-block;
+    margin-right: 0.625rem;
+    min-height: 1.25rem;
+    min-width: 1.25rem;
+}
+
+.submit-button {
+    width: auto;
+    padding: 0.75rem;
+    background-color: lightgreen;
+}
+
+
+                                              
